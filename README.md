@@ -83,7 +83,7 @@ cd Zig-Portfolio
 
 Want the complete portfolio including build artifacts for ALL languages?
 
-**📥 [Download from Internet Archive](https://archive.org/details/programming-portfolio-complete)**
+**📥 [Download from Internet Archive](https://archive.org/details/programming-portfolio-476-programs-in-17-languages-public-domain)**
 
 **Includes:** All 17 languages, build artifacts, dependencies, everything (10 GB)
 
