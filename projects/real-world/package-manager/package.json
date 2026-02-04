@@ -1,0 +1,7 @@
+{
+  "name": "my-zig-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "example-package": "^1.0.0"
+  }
+}

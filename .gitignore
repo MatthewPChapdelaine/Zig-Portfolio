@@ -1,0 +1,88 @@
+# Programming Portfolio - GitHub Optimized .gitignore
+
+### Build Outputs & Binaries ###
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.pyc
+*.pyo
+__pycache__/
+*.beam
+*.hi
+target/
+bin/
+build/
+dist/
+out/
+*.jar
+
+### Dependencies ###
+node_modules/
+vendor/
+venv/
+env/
+.venv/
+*.egg-info/
+Cargo.lock
+package-lock.json
+yarn.lock
+Gemfile.lock
+composer.lock
+
+### IDE & Editor Files ###
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+### Language-Specific Generated Files ###
+# Rust
+Cargo.lock
+# Go
+go.sum
+# Python
+*.egg
+*.whl
+# Java
+*.war
+*.ear
+# JavaScript
+.next/
+.nuxt/
+# C#
+bin/
+obj/
+*.suo
+*.user
+
+### Database & Logs ###
+*.db
+*.sqlite
+*.sqlite3
+*.log
+todos.json
+todos.txt
+
+### Temporary Files ###
+*.tmp
+*.temp
+*.swp
+*.bak
+.cache/
+
+### OS Files ###
+Thumbs.db
+.DS_Store
+desktop.ini
+
+### Documentation Builds ###
+_site/
+.jekyll-cache/
+
