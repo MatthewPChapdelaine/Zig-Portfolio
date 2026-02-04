@@ -72,7 +72,7 @@ zig-projects/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Zig-Portfolio.git
+git clone https://github.com/MatthewPChapdelaine/Zig-Portfolio.git
 cd Zig-Portfolio
 
 # Run any program (adjust command for language)
@@ -113,7 +113,7 @@ See [LICENSE](LICENSE) for full text of The Unlicense.
 ## 🔗 More Language Portfolios
 
 Part of a comprehensive multi-language portfolio:
-- [See all language portfolios](https://github.com/YOUR_USERNAME/Programming-Portfolio)
+- [See all language portfolios](https://github.com/MatthewPChapdelaine/Programming-Portfolio)
 
 ---
 
